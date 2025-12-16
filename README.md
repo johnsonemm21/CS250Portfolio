@@ -1,2 +1,12 @@
 # CS250Portfolio
-Uploading a project
+Questions:
+How do I interpret user needs and implement them into a program? 
+How does creating “user stories” help with this? 
+How do I approach developing programs? 
+What Agile processes do I hope to incorporate into my future development work? 
+What does it mean to be a good team member in software development?
+Answers:
+Interpreting user needs and translating them into a working program requires moving beyond surface-level requirements to understand the underlying problems users are trying to solve. This process often involves recognizing constraints, assumptions, and trade-offs that may not be stated by the user. Rather than treating requirements as fixed instructions, effective development interprets them as evolving hypotheses that must be validated through implementation and feedback. User stories support this approach by framing needs in a way that emphasizes user intent and value. By defining who the user is, what they want to accomplish, and why it matters, user stories help bridge the gap between abstract needs and concrete functionality while allowing flexibility as understanding improves.
+When approaching program development, I aim to treat it as a learning process rather than a linear execution plan. Breaking work into iterative increments allows the development team to test assumptions early, adjust designs, and refine solutions based on real feedback. In my future work, I aim to incorporate Agile practices, including backlog refinement, sprint planning, continuous integration, and retrospectives, to support adaptability and transparency. These processes encourage thoughtful prioritization and reflection, helping ensure that development decisions remain aligned with user value rather than rigid plans or initial assumptions.
+Being a good team member in software development extends beyond completing assigned tasks; it involves contributing to the team’s shared understanding and long-term effectiveness. This includes communicating openly about progress and challenges, being receptive to feedback, and recognizing how individual decisions impact the broader system and team workflow. A strong team member balances personal accountability with collective responsibility, supports collaboration across roles, and remains adaptable in the face of change. Ultimately, effective software development depends on trust, shared ownership, and a willingness to learn both individually and as a team continuously.
+
